@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Michelly Vanessa Unhas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Michelly Vanessa Unhas</h1>
+        <nav>
+            <a href="index.html">Início</a>
+            <a href="servicos.html">Serviços</a>
+            <a href="agendamento.html">Agendamento</a>
+            <a href="pagamento.html">Pagamento</a>
+            <a href="contato.html">Contato</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Beleza para suas unhas com qualidade e carinho!</h2>
+        <p>Oferecemos serviços de manicure, pedicure, unha em gel e fibra. Agende já o seu horário!</p>
+    </main>
+</body>
+</html>
